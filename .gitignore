@@ -1,0 +1,16 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Modelos guardados
+*.pkl
+
+# Dependencias del sistema
+.DS_Store
+Thumbs.db
